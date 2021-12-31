@@ -1,14 +1,16 @@
 # Hello 👋🏼 my name is Karla Jaramillo
 
 ### Junior Full Stack Developer 
-<p> Web Developer | JavaScript | Express | Node.js | React.js | MongoDB | HTML & CSS | Git | GitHub | Axios | JSON | Responsive Web Design</p>
+<p> JavaScript | NodeJS | ExpressJS | React | MongoDB | HTML & CSS | Git | GitHub | Axios | JSON | Responsive Web Design</p>
 
 
 <p><img align="center" src="https://user-images.githubusercontent.com/8181053/147793138-cbf49e75-045f-4ce3-9ac7-22d165b78812.png" alt="karlajaramillo" /></p>
 
 ## 👩🏻‍💻 About me
 - 💻 I’m currently a Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
-- 💙  I love building software and alsol meeting new people over a cup of coffee ☕️. 
+- 💙 I love building software and also meeting new people over a cup of coffee ☕️. 
+- 🧐 I'm curious, responsible, easy to adapt and love helping others.
+- I feel ready and motivated for the next challenge to grow and being involved in an engineering team.
 - 📫 Feel free to reach out at <a href="https://www.linkedin.com/in/karlavjaramillo" target="blank">linkedin</a> or send me a DM through karlav.jaramillo@gmail.com
 
 
@@ -77,8 +79,10 @@
 
 
 
+## 💬 Let's talk
+<a href="https://www.linkedin.com/in/karlavjaramillo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoColor=white&labelColor=101010"></a>
+<a href="mailto:karlav.jaramillo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&labelColor=101010"></a>
 
- 
 
 
 
