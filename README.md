@@ -1,26 +1,59 @@
-<h1 align="center">Hello 👋, my name is Karla Jaramillo</h1>
-<h3 align="center">Junior FullStack Developer 👩🏻‍💻</h3>
+# Hello 👋🏼 my name is Karla Jaramillo
+
+### Junior Full Stack Developer 
+<p> Web Developer | JavaScript | Express | Node.js | React.js | MongoDB | HTML & CSS | Git | GitHub | Axios | JSON | Responsive Web Design</p>
 
 
+<p><img align="center" src="https://user-images.githubusercontent.com/8181053/147793138-cbf49e75-045f-4ce3-9ac7-22d165b78812.png" alt="karlajaramillo" /></p>
 
-- 👩🏻‍💻 I’m currently in a Full Stack Developer Remote Bootcamp at Ironhack. 
-- ☕️ I love meeting new people and talk about apps over a cup of coffee. 
-- 📫 Feel free to contact me through <a href="https://www.linkedin.com/in/karlavjaramillo" target="blank">linkedin</a> or directly karlav.jaramillo@gmail.com
+## 👩🏻‍💻 About me
+- 💻 I’m currently a Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
+- 💙  I love building software and alsol meeting new people over a cup of coffee ☕️. 
+- 📫 Feel free to reach out at <a href="https://www.linkedin.com/in/karlavjaramillo" target="blank">linkedin</a> or send me a DM through karlav.jaramillo@gmail.com
 
 
-<h4 align="left">Skills</h4>
+## 🚀 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-f5c91b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![HTML](https://img.shields.io/badge/HTML5-203B53?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS3-f5c91b?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Node](https://img.shields.io/badge/Node.js-203B53?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
+![Express](https://img.shields.io/badge/Express.js-f5c91b?style=for-the-badge&logoColor=white&labelColor=101010)
+![React](https://img.shields.io/badge/React-203B53?style=for-the-badge&logo=react&logoColor=61DAFB&logoColor=white&labelColor=101010)
+![MongoDB](https://img.shields.io/badge/MongoDB-f5c91b?style=for-the-badge&logo=mongodb&logoColor=white&logoColor=white&labelColor=101010)
+![Heroku](https://img.shields.io/badge/Heroku-203B53?style=for-the-badge&logo=heroku&logoColor=whitelogoColor=white&labelColor=101010)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-
+## 📊 Git dashboard
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karlajaramillo&show_icons=true&layout=compact" alt="karlajaramillo" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlajaramillo&layout=compact" alt="karlajaramillo" /></p>
+
+## 📱 Projects
+### Shooting stars 
+- Game based on JavaScript | Canvas | HTML & CSS | Responsive Design
+<br/>
+<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="305" alt="game" src="https://user-images.githubusercontent.com/8181053/147795779-769f0d41-f6ae-4f3c-aac5-a94cdd6ce000.png"> </a> 
+<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="304" alt="game" src="https://user-images.githubusercontent.com/8181053/147795781-5d1f7996-6f16-4c60-bbcd-12dcb6bb5f3f.png"> </a> 
+<br/>
+
+### Mars Dashboard 
+- Web App based on NodeJS| ExpressJS | NASA API Javascript | HTML & CSS | Responsive Design
+<br/>
+<a href="https://github.com/karlajaramillo/mars-dashboard" target="_blank"> <img width="305" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796013-8a4ed411-9d3f-4d01-8dd7-2f2c91a92e6f.png">
+<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="300" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796016-f96f6a74-5288-4517-be32-cbcca9515cfb.png"> </a> 
+<br/>
+<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="305" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796025-9b75c891-0717-41f4-b1de-67f7d34b58c6.png">
+<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="327" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796023-3174948f-8026-439c-9ee4-5de7afc5f295.png"> </a> 
+
+<br/>
+  
+### Web page for Qindio 
+- Web App based on Javascript | HTML & CSS | Responsive Design | Ajax
+<br/>
+<a href="https://qindio.com" target="_blank"> <img width="308" alt="qindio" src="https://user-images.githubusercontent.com/8181053/147796366-01f469a4-1eac-4749-b6ae-c1344c1c0629.png"> 
+
+
+
+
+
+
 
