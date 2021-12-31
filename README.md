@@ -38,22 +38,47 @@
 ### Mars Dashboard 
 - Web App based on NodeJS| ExpressJS | NASA API Javascript | HTML & CSS | Responsive Design
 <br/>
-<a href="https://github.com/karlajaramillo/mars-dashboard" target="_blank"> <img width="305" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796013-8a4ed411-9d3f-4d01-8dd7-2f2c91a92e6f.png">
+<a href="https://github.com/karlajaramillo/mars-dashboard" target="_blank"> <img width="305" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796013-8a4ed411-9d3f-4d01-8dd7-2f2c91a92e6f.png"> </a> 
 <a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="300" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796016-f96f6a74-5288-4517-be32-cbcca9515cfb.png"> </a> 
-<br/>
-<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="305" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796025-9b75c891-0717-41f4-b1de-67f7d34b58c6.png">
-<a href="https://karlajaramillo.github.io/shooting-stars/" target="_blank"> <img width="327" alt="mars" src="https://user-images.githubusercontent.com/8181053/147796023-3174948f-8026-439c-9ee4-5de7afc5f295.png"> </a> 
 
 <br/>
   
-### Web page for Qindio 
-- Web App based on Javascript | HTML & CSS | Responsive Design | Ajax
+### Dinosaour Dashboard - JavaScript Nanodegree Program Udacity
+- Web page based on Javascript | HTML & CSS | Responsive Design
 <br/>
-<a href="https://qindio.com" target="_blank"> <img width="308" alt="qindio" src="https://user-images.githubusercontent.com/8181053/147796366-01f469a4-1eac-4749-b6ae-c1344c1c0629.png"> 
+<a href="https://karlajaramillo.github.io/dinosaur-project-js/" target="_blank"><img width="305" alt="dino1" src="https://user-images.githubusercontent.com/8181053/147796879-de6e0d2e-7825-4909-ac8c-7859cdc7a173.png"> </a> 
+<a href="https://karlajaramillo.github.io/dinosaur-project-js" target="_blank"><img width="305" alt="dino2" src="https://user-images.githubusercontent.com/8181053/147796880-66ef006b-5f11-4468-8749-7e872eea4bc7.png"> </a> 
+
+### Hedgehog Simulation Game - JavaScript Nanodegree Program Udacity
+- Web page based on Javascript | HTML & CSS | Responsive Design | NodeJS | ExpressJS | Udacity API
+<br/>
+<a href="https://github.com/karlajaramillo/racer-project" target="_blank"><img width="305" alt="game1" src="https://user-images.githubusercontent.com/8181053/147797154-7753dfee-0d9b-4dad-8fe2-3892bd982970.png"> </a> 
+<a href="https://github.com/karlajaramillo/racer-project" target="_blank"><img width="315" alt="game3" src="https://user-images.githubusercontent.com/8181053/147797206-488213be-c901-46ed-bb2d-9adfaf8769c9.png"> </a> 
+
+### Blog - JavaScript Nanodegree Program Udacity
+- Web page based on Javascript | HTML & CSS | Responsive Design
+<br/>
+<a href="https://karlajaramillo.github.io/udacity-project-1" target="_blank"><img width="305" alt="blog" src="https://user-images.githubusercontent.com/8181053/147796691-78d4e2b6-3b71-4e43-b5c2-0cf5d01f7f0f.png"> </a> 
+<a href="https://karlajaramillo.github.io/udacity-project-1" target="_blank"> <img width="305" alt="blog" src="https://user-images.githubusercontent.com/8181053/147796694-f3a7f959-4715-48df-b062-80bd002a0a69.png"> </a> 
+  
+### Web page for Qindio
+- Web page based on Javascript | HTML & CSS | Responsive Design | Ajax
+<br/>
+<a href="https://qindio.com" target="_blank"> <img width="305" alt="qindio" src="https://user-images.githubusercontent.com/8181053/147796366-01f469a4-1eac-4749-b6ae-c1344c1c0629.png">  </a> 
+  
+### Personal blog
+- Web page based on Javascript | HTML & CSS | Responsive Design
+<br/>
+<a href="http://karlajaramillo.github.io" target="_blank"><img width="305" alt="blog" src="https://user-images.githubusercontent.com/8181053/147797024-d2235022-3261-4ef9-8e53-7af84bf43932.png"> </a> 
 
 
 
 
+
+
+
+
+ 
 
 
 
