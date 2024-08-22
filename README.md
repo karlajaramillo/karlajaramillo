@@ -1,6 +1,6 @@
 # Hello 👋🏼 my name is Karla Jaramillo
 
-### Junior Full Stack Developer 
+### Frontend Developer 
 <p> JavaScript | NodeJS | ExpressJS | React | MongoDB | HTML & CSS | Git | GitHub | Axios | JSON | Responsive Web Design</p>
 
 
