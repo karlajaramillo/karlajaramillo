@@ -7,7 +7,7 @@
 <p><img align="center" src="https://user-images.githubusercontent.com/8181053/147793138-cbf49e75-045f-4ce3-9ac7-22d165b78812.png" alt="karlajaramillo" /></p>
 
 ## 👩🏻‍💻 About me
-- 💻 I’m currently a Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
+- 💻 Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
 - 💙 I love building software and also meeting new people over a cup of coffee ☕️. 
 - 🧐 I'm curious, responsible, easy to adapt and love helping others.
 - I feel ready and motivated for the next challenge to grow and being involved in an engineering team.
