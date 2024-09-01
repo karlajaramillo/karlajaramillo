@@ -4,10 +4,12 @@
 <p> JavaScript | NodeJS | ExpressJS | React | MongoDB | HTML & CSS | Git | GitHub | Axios | JSON | Responsive Web Design</p>
 
 
-<p><img align="center" src="https://user-images.githubusercontent.com/8181053/147793138-cbf49e75-045f-4ce3-9ac7-22d165b78812.png" alt="karlajaramillo" /></p>
+
+![background-linkedin](https://github.com/user-attachments/assets/0e28d705-df5d-49d4-bfef-02beb5897c99)
 
 ## 👩🏻‍💻 About me
-- 💻 Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
+- 💻 Frontend Developer with over 3 years working on international environments.
+- Full Stack Developer Student at Remote Bootcamp - <a href="https://www.ironhack.com" target="blank">Ironhack</a>
 - 💙 I love building software and also meeting new people over a cup of coffee ☕️. 
 - 🧐 I'm curious, responsible, easy to adapt and love helping others.
 - I feel ready and motivated for the next challenge to grow and being involved in an engineering team.
