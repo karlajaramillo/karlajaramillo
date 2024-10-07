@@ -27,7 +27,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-203B53?style=for-the-badge&logo=heroku&logoColor=whitelogoColor=white&labelColor=101010)
 
 ## 📊 Git dashboard
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karlajaramillo&show_icons=true&layout=compact" alt="karlajaramillo" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlajaramillo&layout=compact" alt="karlajaramillo" /></p>
 
